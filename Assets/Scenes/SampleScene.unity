@@ -534,6 +534,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gravity: 9.8
   jumpForce: 10
+  speed: 1
 --- !u!4 &1341426246 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: bf0ddfac51c33ef4ea8c41489b9c5985,
